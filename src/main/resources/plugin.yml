@@ -1,0 +1,8 @@
+name: CSGOLobby
+main: com.mcndsj.CSGO_Lobby.CSGO_Lobby
+version: 0.0.1-SNAPSHOT
+depend: [lobbyStatistics, LobbyDisplay, lobbyControl, GameEvent]
+commands:
+  reat:
+    description: Main command!
+    aliases: [reat]
